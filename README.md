@@ -1,5 +1,5 @@
 # Simple Book Market
-***
-[Перейти на сайт](www.bookstorage.online)
-***
+
+[Перейти на сайт]http://(www.bookstorage.online)
+
 <http://www.bookstorage.online>
