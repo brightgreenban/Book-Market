@@ -1,0 +1,125 @@
+/* COMMON */
+body{
+  background-color: #fff;
+}
+
+h1, h3, h4, h5{
+  color: #f4f5f9;
+  text-align: center;
+}
+
+h1{
+  font-size: 32px;
+}
+
+h2{
+  color: #252c41;
+  margin-top: 100px;
+  text-align: center;
+}
+
+p{
+  margin: 0;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.header{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #252c41;
+}
+.center{
+  width: 100%;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+#who{
+  color: #f4f5f9;
+}
+/* SECTION */
+.form-padding{
+  padding-top: 20px;
+}
+.select-genre{
+  height: 28px;
+  border: 2px solid #252c41;
+  background-color: #f4f5f9;
+}
+
+.btn-defoult{
+  margin-top: 30px;
+  color: #252c41;
+  background-color: #f4f5f9;
+  border: 2px solid #252c41;
+}
+
+.btn-defoult:hover{
+  color: #f4f5f9;
+  background-color: #252c41;
+  border: 2px solid #252c41;
+  transition: 0.4s;
+  cursor: pointer;
+}
+
+.text-input{
+  height: 28px;
+  border: 2px solid #252c41;
+}
+/* BOOK LIST SECTION*/
+.book__items{
+  background-color: #f4f5f9;
+  margin-top: 20px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  min-width: 230px;
+  min-height: 230px;
+}
+.books{
+  text-align: center;
+}
+
+.buy-form{
+  margin-top: 20px;
+  max-width: 500px;
+  background-color: #f4f5f9;
+}
+
+#buy-url{
+  text-decoration: none;
+  padding: 2px 10px 2px 10px;
+  border: 2px solid #252c41;
+  color: #252c41;
+}
+
+#buy-url:hover{
+  color: #f4f5f9;
+  background-color: #252c41;
+  transition: 0.4s;
+}
+
+#alert-mess{
+  color: #252c41;
+  margin-top: 100px;
+}
+
+/* FOOTER*/
+footer{
+  position: absolute;
+  width: 100%;
+  margin-top: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #fff;
+}
+
+.footer__center{
+  width: 100%;
+  text-align: center;
+}
+a#admin__item{
+  text-transform: none;
+  text-align: right;
+  color: #f4f5f9;
+}

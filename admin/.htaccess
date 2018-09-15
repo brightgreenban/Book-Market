@@ -1,0 +1,9 @@
+
+
+
+# HTID:6765462: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile "/storage/ssd2/859/7090859/public_html/admin/.htpasswd"
+Require user admin
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:6765462:
